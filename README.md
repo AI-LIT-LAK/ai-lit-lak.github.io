@@ -28,6 +28,7 @@ No build tools or API keys are required. The website consists of HTML, CSS, one 
 - `index.html` — accessible single-page website, workshop copy and organising team
 - `assets/styles.css` — responsive Monash Blue-inspired theme
 - `assets/main.js` — mobile navigation
+- `assets/ai-literacy-in-action.webp` — approved illustration of a learner critically working with AI
 - `assets/mark.svg` — original AI-LIT monogram favicon
 - `assets/social-preview.svg` — original social-sharing graphic
 - `robots.txt` and `sitemap.xml` — discovery metadata
@@ -35,7 +36,7 @@ No build tools or API keys are required. The website consists of HTML, CSS, one 
 ## Key deadlines
 
 - **28 October 2026:** organiser logistics form and website due to LAK27
-- **4 December 2026, 23:59 AoE:** submission deadline
+- **9 December 2026, 23:59 AoE:** submission deadline
 - **18 December 2026:** notifications to authors
 - **17 January 2027:** camera-ready *workshop proposal* deadline
 - **8 or 9 March 2027:** half-day in-person workshop
